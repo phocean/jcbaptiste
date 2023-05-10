@@ -73,7 +73,7 @@ content:
   - title: Certifications
     layout: text
     content: |
-        <mark>CISSP</mark> #423905 - <mark>ISO 27005</mark> risk manager - Analyste <mark>EBIOS</mark> (PECB) - <mark>CEH</mark> (EC-Council) - <mark>CHFI</mark> (EC-Council) - ex-<mark>PCI QSA</mark> (PCI SSC) - ex-qualifié <mark>PASSI</mark> - TOEIC 950
+        <mark>CISSP</mark> #423905 - <mark>ISO 27005</mark> risk manager - Analyste <mark>EBIOS</mark> (PECB) - <mark>CEH</mark> (EC-Council) - <mark>CHFI</mark> (EC-Council) - ex-<mark>PCI QSA</mark> (PCI SSC) - ex-qualifié <mark>PASSI</mark> - <mark>TOEIC</mark> 950
 
   - title: Principales Expériences # Title for the section
     layout: list # Type of content section (list/text)
