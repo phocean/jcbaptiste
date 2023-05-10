@@ -154,7 +154,7 @@ content:
   - title: Autres occupations
     layout: text
     content: | # this will include new lines to allow paragraphs
-      En dehors de la technologies, je privilégie les activités physiques et de plein air, notamment :
+      En dehors de la technologie, je privilégie les activités physiques et de plein air, notamment :
       - le <mark>sport</mark> ;
       - la <mark>photographie</mark>.
 
