@@ -1,0 +1,53 @@
+https://keybase.io/phocean
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jcbaptiste.com
+  * I am phocean (https://keybase.io/phocean) on keybase.
+  * I have a public key ASDN8asIlG048y1uRAdEjDZCN-AhPKHE-DRGw5TAQkAonAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010115dd19e959e705ea9fae8804763214b9256397cae18d62e8531777630c2929880a",
+      "host": "keybase.io",
+      "kid": "0120cdf1ab08946d38f32d6e4407448c364237e0213ca1c4f83446c394c04240289c0a",
+      "uid": "7cb668a8bf81a62248c907fc9d3c4600",
+      "username": "phocean"
+    },
+    "merkle_root": {
+      "ctime": 1683738520,
+      "hash": "3ae809d98cee745fa4a082ac33bb2499d931b6b90822458e3f4a2c4baa639a00e84acc337d3f8574bdd466f08db2100c8fd2eb3a860dc331fa2eb800b22786ad",
+      "hash_meta": "46543f3aaf3a9b2e8e43820b6c0c1153d38532d37ed74d1616482541910cf1de",
+      "seqno": 24435126
+    },
+    "service": {
+      "entropy": "aUO93B6FkMvs915jV+Qtptkp",
+      "hostname": "jcbaptiste.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.4"
+  },
+  "ctime": 1683738572,
+  "expire_in": 504576000,
+  "prev": "0701d4b630a5d4bca73dde7bd09bb5fe962cf57e774620880c623f4a5f1ef18e",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzfGrCJRtOPMtbkQHRIw2QjfgITyhxPg0RsOUwEJAKJwKp3BheWxvYWTESpcCHMQgBwHUtjCl1LynPd570Ju1/pYs9X53RiCIDGI/Sl8e8Y7EINL93FZlmv3A59GTg+KN2I2Vcux/byPthCAgOBMYVHhUAgHCo3NpZ8RAhzxyYaEypSf5sgFa5N1r2jLQHhYUb54dULSj57U+SPhIA576/C2EMR+7b/6SQwzYLQWzfIjoJqHyVp18YBoSAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJzN0eGR3e8bH7TIj+PnQM1VtVEGk8gOarCOmzPgAJsdo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/phocean
