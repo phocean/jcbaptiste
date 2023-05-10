@@ -52,9 +52,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   Je développe mon expertise dans le domaine de la <mark>cyber sécurité</mark> depuis 20 ans.
 
-  Mon expérience de plus de 20 ans s'est bâtie sur une première orientation dans l'architecture réseau et l'intégration de systèmes d'exploitation Linux. Mes activités professionnelles m'ont ensuite permis de me spécialiser dans la sécurité de l'information, aussi bien sur les aspects défensifs qu'offensifs.
+  Mon expérience s'est bâtie sur une première orientation dans l'architecture réseau et l'intégration de systèmes d'exploitation Linux. Mes activités professionnelles m'ont ensuite permis de me spécialiser dans la sécurité de l'information, tant sur les aspects défensifs qu'offensifs.
 
-  J'exerce à ce titre depuis de nombreuses années comme <mark>consultant</mark> senior, <mark>auditeur</mark> et <mark>formateur</mark>. Je dispose également d'expérience dans l'encadrement d'équipes d'experts en tant que responsable, ainsi que dans la gestion stratégique, commerciale et budgétaire en tant que directeur d'une offre spécialisée (qualifiée PASSI).
+  J'exerce à ce titre depuis de nombreuses années comme <mark>consultant</mark> senior, <mark>auditeur</mark> et <mark>formateur</mark>. J'ai également eu l'opportunité d'encadrer des équipes d'experts en tant que responsable, ainsi que de traiter des questions commerciales, stratégiques et budgétaires en tant que directeur d'une offre de conseil spécialisée et qualifiée PASSI par l'ANSSI sur l'ensemble des portées techniques.
 
   Désormais expert indépendant, je vous propose mon savoir-faire au travers des prestations suivantes :
   - <mark>Investigation numérique</mark> (*digital forensics*) ;
@@ -66,7 +66,7 @@ about_content: | # this will include new lines to allow paragraphs
   - <mark>Formation</mark> (administrateurs, développeurs) ;
   - <mark>Sensibilisation</mark> (tous publics).
   
-  Pour tout renseignement complémentaire, conseil ou devis, veuillez me contacter par [courriel](mailto:contact@jcbaptiste.com) ou par un des réseaux sociaux en en-tête de cette page.
+  Pour tout renseignement complémentaire, conseil ou devis, contactez-moi par [courriel](mailto:contact@jcbaptiste.com) ou par un des réseaux sociaux en en-tête de cette page. Je m'engage à vous répondre avec la réactivité et la rigueur que nécessite votre intérêt.
 
 content:
 
@@ -106,7 +106,7 @@ content:
         description: |
           - **Responsable de l'équipe d'audit** : suivi opérationnel des consultants (< 20 personnes) et des missions, recrutement, qualité, avant-vente.
           - **Responsable R&D** : organisation et pilotage des activités de recherche, contrôle et validation des publications, mise en place d'un programme de *bug bounty*, sélection des conférences pour l'événement *Hack in Paris*.
-          - **Consultant** : tests d'intrusion (Web, infrastructure, sans-fil), audit d'architecture, audit de configuraiton, test de robustesse, investigation numérique, analyse de risque, audit de conformité PCI-DSS (auditeur PCI QSA).
+          - **Consultant** : tests d'intrusion (Web, infrastructure, sans-fil), audit d'architecture, audit de configuration, test de robustesse, investigation numérique, analyse de risque, audit de conformité PCI-DSS (auditeur PCI QSA).
           - **Auteur** de formations : Hacking Éthique (niveaux avancé et expert), radio et technologies sans-fil, investigation numérique, SIEM et systèmes de détection, introduction à l'analyse de malwares, Metasploit avancé, sensibilisation.
           - **Formateur** : CEH, CHFI (EC-Council); analyse de risque EBIOS et ISO27005 (PECB).
       
