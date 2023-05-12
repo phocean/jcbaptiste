@@ -73,7 +73,7 @@ content:
   - title: Certifications
     layout: text
     content: |
-        <mark>CISSP</mark> #423905 - <mark>ISO 27005</mark> risk manager - Analyste <mark>EBIOS</mark> (PECB) - <mark>CEH</mark> (EC-Council) - <mark>CHFI</mark> (EC-Council) - ex-<mark>PCI QSA</mark> (PCI SSC) - ex-qualifié <mark>PASSI</mark> - <mark>TOEIC</mark> 950
+        <mark>CISSP</mark> #423905 - <mark>ISO 27005</mark> risk manager - Analyste <mark>EBIOS</mark> (PECB) - <mark>CEH</mark> (EC-Council) - <mark>CHFI</mark> (EC-Council) - ex-<mark>PCI QSA</mark> (PCI SSC) - ex-qualifié <mark>PASSI</mark>
 
   - title: Principales Expériences # Title for the section
     layout: list # Type of content section (list/text)
@@ -148,7 +148,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - <mark>Français</mark> : langue maternelle ;
-      - <mark>Anglais</mark> : lu, écrit, parlé avec aisance - niveau avancé ;
+      - <mark>Anglais</mark> : lu, écrit, parlé avec aisance - niveau avancé (TOEIC 950) ;
       - <mark>Japonais</mark> : niveau élémentaire.
         
   - title: Autres occupations
