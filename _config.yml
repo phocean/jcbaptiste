@@ -160,7 +160,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: Devis sur demande - SIRET : 79759543600016
+references_title: Devis sur demande - SIRET 79759543600016
 
 # Build settings
 remote_theme: sproogen/resume-theme
