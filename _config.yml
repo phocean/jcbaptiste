@@ -17,6 +17,11 @@ description: |
   Devis sur demande pour toute expertise, conseil, audit en cyber sécurité : investigation numérique (digital forensics), test d'intrusion (penetration testing), audit d'architecture, système, réseau, web, analyse de risque EBIOS/ISO27005, PCI-DSS.
 locale: fr_FR
 author: Jean-Christophe Baptiste
+twitter:
+  username: _phocean
+  card: summary
+url: https://jcbaptiste.com
+logo: /images/profile.jpg
 social:
   name: phocean
   links:
