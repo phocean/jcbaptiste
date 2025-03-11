@@ -101,13 +101,6 @@ content:
     content:
     
       - layout: left
-        title: Consultant indépendant
-        link: jcbaptiste.com
-        # link_text: boringcompany.com
-        # sub_title: Directeur
-        caption: depuis Décembre 2022
-
-      - layout: left
         title: TNP consultants
         link: tnpitsecurity.com
         # link_text: boringcompany.com
