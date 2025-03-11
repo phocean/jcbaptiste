@@ -154,16 +154,18 @@ content:
         sub_title: Paris
         description: École Supérieure de Génie Informatique, spécialité Réseau et Télécommunication
 
-  - title: Ateliers
-    layout: text
-    content: |
-        - **Practical IoT hacking** (Hack in Paris, 2019)
-        - **Intelligence artificielle** - Machine Learning** (Human Coders, 2019)
-        - **Smart Lock Picking** (Hack in Paris, 2018)
-        - **Practical SAP Netweaver ABAP pentest** (Hack in Paris, 2017)
-        - **Pentesting ICS** (Hack in Paris, 2016)
-        - **FOR526 - Memory Analysis in-depth** (SANS, 2015)
-        - **Malware Reversing** (Hack in Paris, 2011)
+      - layout: left
+        title: Ateliers
+        caption: 2011 - 2019
+        sub_title: 
+        description: |
+          - **Practical IoT hacking** (Hack in Paris, 2019)
+          - **Intelligence artificielle** - Machine Learning** (Human Coders, 2019)
+          - **Smart Lock Picking** (Hack in Paris, 2018)
+          - **Practical SAP Netweaver ABAP pentest** (Hack in Paris, 2017)
+          - **Pentesting ICS** (Hack in Paris, 2016)
+          - **FOR526 - Memory Analysis in-depth** (SANS, 2015)
+          - **Malware Reversing** (Hack in Paris, 2011)
   
   - title: Langues
     layout: text
