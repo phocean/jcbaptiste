@@ -96,7 +96,7 @@ content:
     content: |
         <mark>ISO 27001 lead auditor</mark> - <mark>CISSP</mark> #423905 - <mark>ISO 27005</mark> risk manager - Analyste <mark>EBIOS</mark> - <mark>CEH</mark> (EC-Council) - <mark>CHFI</mark> (EC-Council) - ex-<mark>PCI QSA</mark> (PCI SSC) - ex-qualifié <mark>PASSI</mark> (toutes portées sauf revue de code source)
 
-  - title: Principales Expériences # Title for the section
+  - title: Précédentes expériences # Title for the section
     layout: list # Type of content section (list/text)
     content:
     
