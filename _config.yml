@@ -76,14 +76,13 @@ about_content: | # this will include new lines to allow paragraphs
   J'exerce à ce titre depuis de nombreuses années comme <mark>consultant</mark> senior, <mark>auditeur</mark> et <mark>formateur</mark>. J'ai également eu l'opportunité d'encadrer des équipes d'experts en tant que responsable, ainsi que de traiter des questions commerciales, stratégiques et budgétaires en tant que directeur d'une offre de conseil spécialisée et qualifiée PASSI par l'ANSSI sur l'ensemble des portées techniques.
 
   Désormais **expert indépendant**, je vous propose mon savoir-faire au travers des prestations suivantes :
-  - <mark>Investigation numérique</mark> (*digital forensics*) ;
-  - <mark>Test d'intrusion</mark> (*pentest*) Web, infrastructure et sans-fil ;
-  - <mark>Test de robustesse</mark> et <mark>audit de configuration</mark> système ;
+  - Audit ISO 27001 (interne ou via un organisme de certification)
+  - Audit d'architecture, de configuration ou organisationnel ;
   - <mark>Analyse de risque</mark> (EBIOS, ISO27005) ;
-  - Conseil en <mark>architecture</mark> système et réseau, ou sur mesure ;
-  - Préparation à la qualification <mark>PASSI</mark> ou à la certification <mark>PCI-DSS</mark> ;
-  - <mark>Formation</mark> (administrateurs, développeurs) ;
-  - <mark>Sensibilisation</mark> (tous publics).
+  - Conseil (ISO, NIS 2, PASSI, PCI-DSS), accompagnement RSSI ;
+  - <mark>Investigation numérique</mark> (*digital forensics*) ;
+  - Tests techniques :  <mark>test d'intrusion</mark> (*pentest*) Web, infrastructure et sans-fil ; <mark>Tests de robustesse　（ordinateurs, équipements spécifiques, radio, badges</mark> ;
+  - <mark>Formation</mark> (administrateurs, développeurs).
   
   Pour tout renseignement complémentaire, conseil ou devis, contactez-moi par [courriel](mailto:contact@jcbaptiste.com) ou par un des réseaux sociaux en en-tête de cette page. Je m'engage à vous répondre avec la réactivité et la rigueur que nécessite votre intérêt.
 
@@ -92,11 +91,18 @@ content:
   - title: Certifications
     layout: text
     content: |
-        <mark>CISSP</mark> #423905 - <mark>ISO 27005</mark> risk manager - Analyste <mark>EBIOS</mark> (PECB) - <mark>CEH</mark> (EC-Council) - <mark>CHFI</mark> (EC-Council) - ex-<mark>PCI QSA</mark> (PCI SSC) - ex-qualifié <mark>PASSI</mark>
+        <mark>ISO 27001 lead auditor</mark> - <mark>CISSP</mark> #423905 - <mark>ISO 27005</mark> risk manager - Analyste <mark>EBIOS</mark> - <mark>CEH</mark> (EC-Council) - <mark>CHFI</mark> (EC-Council) - ex-<mark>PCI QSA</mark> (PCI SSC) - ex-qualifié <mark>PASSI</mark> (toutes portées sauf revue de code source)
 
   - title: Principales Expériences # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    
+      - layout: left
+        title: Consultant indépendant
+        link: jcbaptiste.com
+        # link_text: boringcompany.com
+        # sub_title: Directeur
+        caption: depuis Décembre 2022
 
       - layout: left
         title: TNP consultants
