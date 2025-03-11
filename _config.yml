@@ -69,16 +69,19 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Bonjour,
 
-  Je développe mon expertise dans le domaine de la <mark>cyber sécurité</mark> depuis 20 ans.
+  Expert indépendant depuis 2023, je propose une expertise acquise en près de 25 ans d'exercice dans le domaine de la <mark>cyber sécurité</mark>.
 
-  Mon expérience s'est bâtie sur une première orientation dans l'architecture réseau et l'intégration de systèmes d'exploitation Linux. Mes activités professionnelles m'ont ensuite permis de me spécialiser dans la sécurité de l'information, tant sur les aspects défensifs qu'offensifs.
+  Mes activités professionnelles m'ont permis de développer un profil polyvalent, aussi bien dans les domaines techniques qu'organisationnels et opérationnels, défensifs comme offensifs.
 
-  J'exerce à ce titre depuis de nombreuses années comme <mark>consultant</mark> senior, <mark>auditeur</mark> et <mark>formateur</mark>. J'ai également eu l'opportunité d'encadrer des équipes d'experts en tant que responsable, ainsi que de traiter des questions commerciales, stratégiques et budgétaires en tant que directeur d'une offre de conseil spécialisée et qualifiée PASSI par l'ANSSI sur l'ensemble des portées techniques.
+  J'exerce à ce titre depuis de nombreuses années comme <mark>consultant</mark> senior, <mark>auditeur</mark> et <mark>formateur</mark>.
+  
+  J'ai également eu l'opportunité d'encadrer des équipes d'experts en tant que responsable, ainsi que de traiter des questions commerciales, stratégiques et budgétaires en tant que directeur d'une offre de conseil spécialisée et qualifiée PASSI par l'ANSSI sur l'ensemble des portées techniques.
 
   Désormais **expert indépendant**, je vous propose mon savoir-faire au travers des prestations suivantes :
-  - Audit ISO 27001 (interne ou via un organisme de certification)
-  - Audit d'architecture, de configuration ou organisationnel ;
-  - <mark>Analyse de risque</mark> (EBIOS, ISO27005) ;
+  
+  - Audit <mark>ISO 27001</mark> (interne ou via un organisme de certification)
+  - Audit d'<mark>architecture</mark>, de <mark>configuration</mark> ou <mark>organisationnel</mark> ;
+  - <mark>Analyse de risque</mark> EBIOS ou ISO27005 ;
   - Conseil (ISO, NIS 2, PASSI, PCI-DSS), accompagnement RSSI ;
   - <mark>Investigation numérique</mark> (*digital forensics*) ;
   - Tests techniques :  <mark>test d'intrusion</mark> (*pentest*) Web, infrastructure et sans-fil ; <mark>Tests de robustesse　（ordinateurs, équipements spécifiques, radio, badges</mark> ;
