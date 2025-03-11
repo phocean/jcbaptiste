@@ -155,9 +155,9 @@ content:
         description: École Supérieure de Génie Informatique, spécialité Réseau et Télécommunication
 
       - layout: left
-        title: Ateliers & stages techniques
+        title: Ateliers
         caption: 2011 - 2019
-        sub_title: 
+        sub_title: Stages techniques
         description: |
           - **Practical IoT hacking** (Hack in Paris, 2019)
           - **Intelligence artificielle** - Machine Learning** (Human Coders, 2019)
