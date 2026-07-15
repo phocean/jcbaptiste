@@ -9,3 +9,9 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "webrick", "~> 1.8"
+
+# Transitive dependencies of github-pages, pinned explicitly so Dependabot
+# can raise security PRs against them
+gem "concurrent-ruby", ">= 1.3.7"
+gem "faraday", ">= 2.14.3"
+gem "nokogiri", ">= 1.19.4"
