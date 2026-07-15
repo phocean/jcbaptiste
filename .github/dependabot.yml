@@ -1,0 +1,31 @@
+# Dependabot version updates
+# Docs: https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+version: 2
+updates:
+  # Ruby gems (Gemfile / Gemfile.lock)
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    # Group all patch/minor bumps into a single PR to limit noise
+    groups:
+      ruby-deps:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
+
+  # npm (package.json / package-lock.json)
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    groups:
+      npm-deps:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
