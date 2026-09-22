@@ -69,19 +69,19 @@ about_content: | # this will include new lines to allow paragraphs
 
   Mes activités professionnelles m'ont permis de développer un profil polyvalent, aussi bien dans les domaines techniques qu'organisationnels et opérationnels, défensifs comme offensifs.
 
-  J'exerce à ce titre depuis de nombreuses années comme consultant senior, auditeur et formateur.
+  J'exerce à ce titre depuis de nombreuses années comme <mark>consultant</mark> senior, <mark>auditeur</mark> et <mark>formateur</mark>.
 
   J'ai également eu l'opportunité d'encadrer des équipes d'experts en tant que responsable, ainsi que de traiter des questions commerciales, stratégiques et budgétaires en tant que directeur d'une offre de conseil spécialisée et qualifiée PASSI par l'ANSSI sur l'ensemble des portées techniques.
 
   Désormais **expert indépendant**, je vous propose mon savoir-faire au travers des prestations suivantes :
 
   - Audit <mark>ISO 27001</mark> (interne ou via un organisme de certification)
-  - Audit d'architecture, de configuration ou organisationnel ;
-  - Analyse de risque EBIOS ou ISO27005 ;
+  - Audit d'<mark>architecture</mark>, de <mark>configuration</mark> ou <mark>organisationnel</mark> ;
+  - <mark>Analyse de risque</mark> EBIOS ou ISO27005 ;
   - Conseil (ISO, NIS 2, PASSI, PCI-DSS), accompagnement RSSI ;
   - <mark>Investigation numérique</mark> (*digital forensics*) ;
-  - Tests techniques : <mark>test d'intrusion</mark> (*pentest*) Web, infrastructure et sans-fil ; tests de robustesse (ordinateurs, équipements spécifiques, radio, badges) ;
-  - Formation (administrateurs, développeurs).
+  - Tests techniques : <mark>test d'intrusion</mark> (*pentest*) Web, infrastructure et sans-fil ; <mark>tests de robustesse</mark> (ordinateurs, équipements spécifiques, radio, badges) ;
+  - <mark>Formation</mark> (administrateurs, développeurs).
   
   Pour tout renseignement complémentaire, conseil ou devis, contactez-moi par [courriel](mailto:contact@jcbaptiste.com) ou par un des réseaux sociaux en en-tête de cette page. Je m'engage à vous répondre avec la réactivité et la rigueur que nécessite votre intérêt.
 
@@ -90,7 +90,7 @@ content:
   - title: Certifications
     layout: text
     content: |
-        <mark>ISO 27001 lead auditor</mark> - <mark>CISSP</mark> #423905 - ISO 27005 risk manager - Analyste EBIOS - CEH (EC-Council) - CHFI (EC-Council) - ex-PCI QSA (PCI SSC) - ex-qualifié PASSI (toutes portées sauf revue de code source)
+        <mark>ISO 27001 lead auditor</mark> - <mark>CISSP</mark> #423905 - <mark>ISO 27005</mark> risk manager - Analyste <mark>EBIOS</mark> - <mark>CEH</mark> (EC-Council) - <mark>CHFI</mark> (EC-Council) - ex-<mark>PCI QSA</mark> (PCI SSC) - ex-qualifié <mark>PASSI</mark> (toutes portées sauf revue de code source)
 
   - title: Précédentes expériences # Title for the section
     layout: list # Type of content section (list/text)
@@ -166,16 +166,16 @@ content:
   - title: Langues
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Français : langue maternelle ;
+      - <mark>Français</mark> : langue maternelle ;
       - <mark>Anglais</mark> : lu, écrit, parlé avec aisance - niveau avancé (TOEIC 950) ;
-      - Japonais : niveau élémentaire.
+      - <mark>Japonais</mark> : niveau élémentaire.
         
   - title: Autres occupations
     layout: text
     content: | # this will include new lines to allow paragraphs
       En dehors de la technologie, je privilégie les activités physiques et de plein air, notamment :
-      - le sport ;
-      - la photographie.
+      - le <mark>sport</mark> ;
+      - la <mark>photographie</mark>.
 
 # Footer
 footer_show_references: true
