@@ -12,11 +12,14 @@ email: contact@jcbaptiste.com
 website: jcbaptiste.com
 
 # SEO
+lang: fr
 tagline: Présentation de Jean-Christophe Baptiste, expert indépendant en cybersécurité
 description: |
   Devis sur demande pour toute expertise, conseil, audit en cyber sécurité : investigation numérique (digital forensics), test d'intrusion (penetration testing), audit d'architecture, système, réseau, web, analyse de risque EBIOS/ISO27005, PCI-DSS.
 locale: fr_FR
-author: Jean-Christophe Baptiste
+author:
+  name: Jean-Christophe Baptiste
+  twitter: _phocean
 twitter:
   username: _phocean
   card: summary
@@ -57,12 +60,6 @@ additional_links:
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-google_analytics: "G-623RT5W745"
-
 # About Section
 about_title: À propos
 about_profile_image: images/profile.jpg
@@ -72,19 +69,19 @@ about_content: | # this will include new lines to allow paragraphs
 
   Mes activités professionnelles m'ont permis de développer un profil polyvalent, aussi bien dans les domaines techniques qu'organisationnels et opérationnels, défensifs comme offensifs.
 
-  J'exerce à ce titre depuis de nombreuses années comme <mark>consultant</mark> senior, <mark>auditeur</mark> et <mark>formateur</mark>.
-  
+  J'exerce à ce titre depuis de nombreuses années comme consultant senior, auditeur et formateur.
+
   J'ai également eu l'opportunité d'encadrer des équipes d'experts en tant que responsable, ainsi que de traiter des questions commerciales, stratégiques et budgétaires en tant que directeur d'une offre de conseil spécialisée et qualifiée PASSI par l'ANSSI sur l'ensemble des portées techniques.
 
   Désormais **expert indépendant**, je vous propose mon savoir-faire au travers des prestations suivantes :
-  
+
   - Audit <mark>ISO 27001</mark> (interne ou via un organisme de certification)
-  - Audit d'<mark>architecture</mark>, de <mark>configuration</mark> ou <mark>organisationnel</mark> ;
-  - <mark>Analyse de risque</mark> EBIOS ou ISO27005 ;
+  - Audit d'architecture, de configuration ou organisationnel ;
+  - Analyse de risque EBIOS ou ISO27005 ;
   - Conseil (ISO, NIS 2, PASSI, PCI-DSS), accompagnement RSSI ;
   - <mark>Investigation numérique</mark> (*digital forensics*) ;
-  - Tests techniques :  <mark>test d'intrusion</mark> (*pentest*) Web, infrastructure et sans-fil ; <mark>Tests de robustesse　（ordinateurs, équipements spécifiques, radio, badges</mark> ;
-  - <mark>Formation</mark> (administrateurs, développeurs).
+  - Tests techniques : <mark>test d'intrusion</mark> (*pentest*) Web, infrastructure et sans-fil ; tests de robustesse (ordinateurs, équipements spécifiques, radio, badges) ;
+  - Formation (administrateurs, développeurs).
   
   Pour tout renseignement complémentaire, conseil ou devis, contactez-moi par [courriel](mailto:contact@jcbaptiste.com) ou par un des réseaux sociaux en en-tête de cette page. Je m'engage à vous répondre avec la réactivité et la rigueur que nécessite votre intérêt.
 
@@ -93,7 +90,7 @@ content:
   - title: Certifications
     layout: text
     content: |
-        <mark>ISO 27001 lead auditor</mark> - <mark>CISSP</mark> #423905 - <mark>ISO 27005</mark> risk manager - Analyste <mark>EBIOS</mark> - <mark>CEH</mark> (EC-Council) - <mark>CHFI</mark> (EC-Council) - ex-<mark>PCI QSA</mark> (PCI SSC) - ex-qualifié <mark>PASSI</mark> (toutes portées sauf revue de code source)
+        <mark>ISO 27001 lead auditor</mark> - <mark>CISSP</mark> #423905 - ISO 27005 risk manager - Analyste EBIOS - CEH (EC-Council) - CHFI (EC-Council) - ex-PCI QSA (PCI SSC) - ex-qualifié PASSI (toutes portées sauf revue de code source)
 
   - title: Précédentes expériences # Title for the section
     layout: list # Type of content section (list/text)
@@ -159,7 +156,7 @@ content:
         sub_title: Stages techniques
         description: |
           - **Practical IoT hacking** (Hack in Paris, 2019)
-          - **Intelligence artificielle** - Machine Learning** (Human Coders, 2019)
+          - **Intelligence artificielle** - **Machine Learning** (Human Coders, 2019)
           - **Smart Lock Picking** (Hack in Paris, 2018)
           - **Practical SAP Netweaver ABAP pentest** (Hack in Paris, 2017)
           - **Pentesting ICS** (Hack in Paris, 2016)
@@ -169,16 +166,16 @@ content:
   - title: Langues
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - <mark>Français</mark> : langue maternelle ;
+      - Français : langue maternelle ;
       - <mark>Anglais</mark> : lu, écrit, parlé avec aisance - niveau avancé (TOEIC 950) ;
-      - <mark>Japonais</mark> : niveau élémentaire.
+      - Japonais : niveau élémentaire.
         
   - title: Autres occupations
     layout: text
     content: | # this will include new lines to allow paragraphs
       En dehors de la technologie, je privilégie les activités physiques et de plein air, notamment :
-      - le <mark>sport</mark> ;
-      - la <mark>photographie</mark>.
+      - le sport ;
+      - la photographie.
 
 # Footer
 footer_show_references: true
