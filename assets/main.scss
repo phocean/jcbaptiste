@@ -30,11 +30,21 @@
 }
 
 // The social icons are now inline SVG (see _includes/header.html)
-// instead of Font Awesome glyphs, sized and centered to match.
+// instead of Font Awesome glyphs. The Font Awesome <i> used to center
+// itself inside the 60px circle via a line-height trick, and relied
+// on `.icons { text-align: right }` being visually insignificant for
+// a glyph that nearly fills its own box. Neither holds for an SVG
+// explicitly sized smaller than the circle, so center it with flex
+// instead of depending on inherited text-align/line-height.
+.icons .button--sacnite {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .icons svg {
   width: 28px;
   height: 28px;
-  vertical-align: middle;
 }
 
 // Certification badges: same dark-chip look the theme already uses

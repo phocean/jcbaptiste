@@ -115,6 +115,13 @@ picture {
   max-width: 100%; }
 
 html {
+  // The theme's whole type scale (h1: 4rem, .icons a: 2.75rem, etc.)
+  // is written assuming a 10px rem base. Bootstrap silently provided
+  // that (its bundled h5bp reset sets html{font-size:10px}); without
+  // Bootstrap the browser default of 16px applies instead, making
+  // every rem-sized element 1.6x too big. Restore the 10px base the
+  // theme was actually designed against.
+  font-size: 62.5%;
   box-sizing: border-box; }
 
 *,
