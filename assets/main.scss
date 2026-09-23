@@ -11,3 +11,56 @@
   box-shadow: none;
   border: 3px solid #e6e6e6;
 }
+
+// Override: h1/h2/h3 have no responsive sizing in the theme. Text still
+// wraps fine at the default size, but this keeps the name on one line
+// on phones instead of wrapping to two.
+@media (max-width: 480px) {
+  h1 {
+    font-size: 2.4rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+
+  h3 {
+    font-size: 2rem;
+  }
+}
+
+// The social icons are now inline SVG (see _includes/header.html)
+// instead of Font Awesome glyphs, sized and centered to match.
+.icons svg {
+  width: 28px;
+  height: 28px;
+  vertical-align: middle;
+}
+
+// Certification badges: same dark-chip look the theme already uses
+// for <mark>, applied as discrete pills instead of a run-on sentence.
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.badges .badge {
+  display: inline-block;
+  background-color: #333;
+  color: #fff;
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .25);
+}
+
+.badges .badge .sub {
+  opacity: .75;
+  font-size: .9em;
+}
+
+.dark .badges .badge {
+  background-color: #e6e6e6;
+  color: #222;
+}
